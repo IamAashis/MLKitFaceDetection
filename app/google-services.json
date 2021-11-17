@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "437389021041",
+    "project_id": "mlkitface-4b132",
+    "storage_bucket": "mlkitface-4b132.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437389021041:android:96396441d3ca65bed5f0d0",
+        "android_client_info": {
+          "package_name": "com.aashis.mlkitfacedetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437389021041-da1002cd2sh12fdm9slmgq15tigj5dau.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuIDcLU9gFkKU40TA51T-xVp2FDGPZQ5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437389021041-da1002cd2sh12fdm9slmgq15tigj5dau.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

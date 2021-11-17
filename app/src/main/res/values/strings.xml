@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MLKitFaceDetection</string>
+    <string name="realtime">realTime</string>
+    <string name="gallery">Gallery</string>
+</resources>
